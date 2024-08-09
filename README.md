@@ -1,7 +1,7 @@
 Hi 👋 My name is Nice
 =====================
 
-Web Deverloper & Engineer
+Full stsck Web Developer & Engineer
 -------------------------
 
 💻About Nice🤖 - Study at Yupparaj Wittayalai School - Full Stack Developer - Engineer -
