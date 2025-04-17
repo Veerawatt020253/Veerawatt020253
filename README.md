@@ -1,10 +1,10 @@
 Hi 👋 My name is Nice
 =====================
 
-Full stsck Web Developer & Engineer
+FullStack & Software Engineer
 -------------------------
 
-💻About Nice🤖 - Study at Yupparaj Wittayalai School - Full Stack Developer - Engineer -
+💻About Me🤖 - Study at Yupparaj Wittayalai School - Gifted Computer - Gen3 -
 
 * 🌍  I'm based in Chiang Mai
 * ✉️  You can contact me at [veerawatt.nice@gmail.com](mailto:veerawatt.nice@gmail.com)
