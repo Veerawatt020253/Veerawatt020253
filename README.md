@@ -8,7 +8,7 @@ FullStack & Software Engineer
 
 * 🌍  I'm based in Chiang Mai
 * ✉️  You can contact me at [veerawatt.nice@gmail.com](mailto:veerawatt.nice@gmail.com)
-* 🧠  I'm learning Robot and new Framework
+* 🧠  I'm learning Machine Learing and Robotic
 * 🤝  I'm open to collaborating on Yupparaj Wittayalai School
 * ⚡  I Love Coding
 
